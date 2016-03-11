@@ -1,0 +1,7 @@
+{
+	"name": "jonirc",
+	"description": "Simple irc library.",
+	"version": "0.1.0",
+	"author": "Jon Börjesson <jon@spuun.se>",
+	"main": "./lib/irc.js",
+}
