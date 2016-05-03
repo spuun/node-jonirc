@@ -1,7 +1,10 @@
 {
 	"name": "jonirc",
 	"description": "Simple irc library.",
-	"version": "0.1.0",
+	"version": "0.4.0",
 	"author": "Jon Börjesson <jon@spuun.se>",
-	"main": "./lib/irc.js"
+	"main": "./lib/irc.js",
+	"engines": {
+		"node":">=5.0.0"
+	}
 }
